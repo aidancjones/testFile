@@ -4,3 +4,19 @@
     <meta charset="utf-8">
     <title> Week 2 Practice </title>
   </head>
+  <body>
+    <h1>This is an <u>H1 header</u></h1>
+    <h2> This is an H2</h>
+    <h3> This is an H3</h>
+    <h4> This is an H4</h>
+    <h5> This is an H5</h>
+    <h6> This is an H6</h>
+
+    <p>Hi, my name is <strong>Aidan!</strong></p>
+    <p>Im <em>practicing HTML!</em></p>
+
+    <h1><a href="https://www.aijomedia.com">My Portfolio</a></h1>
+    <a href="subdirectory/file.html">sub-directory file</a>
+    <p><a href="../index.html">parent directory</a></p>
+  </body>
+</html>
