@@ -1,22 +1,60 @@
 <!DOCTYPE html>
-<html
-  <head>
-    <meta charset="utf-8">
-    <title> Week 2 Practice </title>
-  </head>
-  <body>
-    <h1>This is an <u>H1 header</u></h1>
-    <h2> This is an H2</h>
-    <h3> This is an H3</h>
-    <h4> This is an H4</h>
-    <h5> This is an H5</h>
-    <h6> This is an H6</h>
+<html>
 
-    <p>Hi, my name is <strong>Aidan!</strong></p>
-    <p>Im <em>practicing HTML!</em></p>
+<head>
+  <meta charset="utf-8">
+  <title> Week 2 Practice </title>
+</head>
 
-    <h1><a href="https://www.aijomedia.com">My Portfolio</a></h1>
-    <a href="subdirectory/file.html">sub-directory file</a>
-    <p><a href="../index.html">parent directory</a></p>
-  </body>
+<body>
+  <h1>This is an <u>H1 header</u></h1>
+  <h2> This is an H2</h2>
+  <h3> This is an H3</h3>
+  <h4> This is an H4</h4>
+  <h5> This is an H5</h5>
+  <h6> This is an H6</h6>
+
+  <p>Hi, my name is <strong>Aidan!</strong></p>
+  <p>Im <em>practicing HTML!</em></p>
+
+  <h1><a href="https://www.aijomedia.com">My Portfolio</a></h1>
+  <a href="subdirectory/file.html">sub-directory file</a>
+  <p><a href="../index.html">parent directory</a></p>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+  <!-- IMAGE
+
+    <p id="test">Test</p>
+    <p>Test</p>
+    <img src="./img/treeSky.JPG" alt="alt text to describe image">
+
+    -->
+
+  <ol>
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ol>
+
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+
+  <p id="top">This is the top</p>
+  <a href="/reviews/xyz.html">Pitchfork Link</a>
+
+</body>
+
 </html>
